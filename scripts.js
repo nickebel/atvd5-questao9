@@ -1,12 +1,12 @@
 
-let numero = parseFloat(prompt('Digite um número: '));
+let numero = parseFloat(prompt('Digite um numero: '));
 
 if (numero < 0) {
     
-    alert("Você digitou um número negativo.");
+    alert("Voce digitou um numero negativo");
 } else {
     
-    alert("Você digitou um número positivo.");
+    alert("Voce digitou um numero positivo");
 }
 
 
